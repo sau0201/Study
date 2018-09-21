@@ -19,5 +19,11 @@ Understanding Memory Management in Java  -
 https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html
 
 
+Oracle blog for java tutorials
+https://docs.oracle.com/javase/tutorial
+
+
+
+
 
 
