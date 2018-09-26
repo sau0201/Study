@@ -32,4 +32,8 @@ https://docs.oracle.com/javase/tutorial
 
 http://www.aemcq5tutorials.com
 
+http://aempodcast.com
+
+http://sgaem.blogspot.com
+
 
