@@ -38,3 +38,8 @@ http://aempodcast.com
 http://sgaem.blogspot.com
 
 
+# OSGI 
+
+Great Blog
+https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-ii/ 
+
