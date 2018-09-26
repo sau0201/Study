@@ -28,7 +28,8 @@ https://docs.oracle.com/javase/tutorial
 
 # AEM
 
-- # AEM Blogs
+- # AEM Blogs Thesse are avareage blogs. Best way to learn anything is just google around for AEM. 
+Most of the articles are referenced from sling, osgi,adobe site. 
 
 http://www.aemcq5tutorials.com
 
