@@ -42,4 +42,5 @@ http://sgaem.blogspot.com
 
 Great Blog
 https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-ii/ 
+http://sgaem.blogspot.com/2017/07/migration-of-scr-annotations-to-osgi-r6.html
 
